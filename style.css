@@ -1,0 +1,42 @@
+#DIW{
+    background-color: aquamarine;
+} 
+
+#DWEC{
+    background-color: bisque;
+}
+
+#DWES{
+    background-color: rgb(177, 124, 226);
+}
+
+#TUT{
+    background-color: lightcoral;
+}
+
+#EIE{
+    background-color: lawngreen;
+}
+
+
+#DAW{
+    background-color: lightsalmon;
+}
+
+#ANG{
+    background-color: lightpink;
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+    background-color: pink;
+}
+
+body{
+    background-color: rgb(241, 226, 229);
+}
+
+#DWES:hover, #DWEC:hover,  #TUT:hover, #EIE:hover, #DAW:hover, #ANG:hover, #DIW:hover{
+    scale:1.2;
+}
